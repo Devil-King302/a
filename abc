@@ -195,11 +195,11 @@ def super():
 
     os.system('clear')
     print logo
-    print '\x1b[1;91m[\x1b[1;92m1\x1b[1;91m]\x1b[1;96m Crack your Friendlist'
-    print '\x1b[1;91m[\x1b[1;92m2\x1b[1;91m]\x1b[1;93m Crack id link Friendlist'
-    print '\x1b[1;91m[\x1b[1;92m3\x1b[1;91m]\x1b[1;94m Crack From member group'
-    print '\x1b[1;91m[\x1b[1;92m4\x1b[1;91m]\x1b[1;95m Crack your File'
-    print '\x1b[1;91m[\x1b[1;92m0\x1b[1;91m]\x1b[1;91m Close program'
+    print '\x1b[1;91m[\x1b[1;92m1\x1b[1;91m]\x1b[1;96m CRACK FROM FRIEND LIST'
+    print '\x1b[1;91m[\x1b[1;92m2\x1b[1;91m]\x1b[1;93m CRACK FROM PUBLIC I'D  FRIENDLIST'
+    print '\x1b[1;91m[\x1b[1;92m3\x1b[1;91m]\x1b[1;94m Crack FROM GROUP MEMBERS'
+    print '\x1b[1;91m[\x1b[1;92m4\x1b[1;91m]\x1b[1;95m CRACK FROM FILE'
+    print '\x1b[1;91m[\x1b[1;92m0\x1b[1;91m]\x1b[1;91m EXIT'
     pilih_super()
 
 
@@ -415,4 +415,4 @@ def pilih_super():
 
 if __name__ == '__main__':
     login()
-# okay decompiling X-Brand.pyc
+
